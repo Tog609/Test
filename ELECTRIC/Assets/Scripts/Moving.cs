@@ -6,6 +6,8 @@ public class CubeMoveTest : MonoBehaviour
     public float cellSize = 1f;
 
     private bool isMoving = false;
+
+    int a = 12;
     private void Update()
     {
         if (!isMoving && Input.GetKeyDown(KeyCode.W))
