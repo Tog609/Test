@@ -5,9 +5,11 @@ public class PlayerCharger : MonoBehaviour
     [SerializeField] private ChargeMode _playerMode = ChargeMode.Plus;
     [SerializeField] private Material _playerMaterial;
 
-    [SerializeField] private Color plusColor = new Color(0f, 0.8f, 1f);
-    [SerializeField] private Color minusColor = new Color(0.7f, 0f, 1f);
+    private Color plusColor = new Color(0f, 0.8f, 1f); 
 
+    private Color minusColor = new Color(0.7f, 0f, 1f);
+
+    private const string _emissionColor = "_EmissionColor";
     public ChargeMode Mode => _playerMode;
 
     private void Update()
@@ -23,12 +25,12 @@ public class PlayerCharger : MonoBehaviour
         if (_playerMode == ChargeMode.Plus)
         {
             _playerMode = ChargeMode.Minus;
-            _playerMaterial.SetColor("_EmissionColor", minusColor * 3f);
+            _playerMaterial.SetColor(_emissionColor, minusColor * 3f);
         }
         else if (_playerMode == ChargeMode.Minus)
         {
             _playerMode = ChargeMode.Plus;
-            _playerMaterial.SetColor("_EmissionColor", plusColor * 3f);
+            _playerMaterial.SetColor(_emissionColor, plusColor * 3f);
         }
     }
 }

@@ -1,13 +1,13 @@
 using UnityEngine;
 
 public class CubeMoveTest : MonoBehaviour
-{
+{   
+    [Header("Character Settings")]
     public float moveTime = 0.15f;
     public float cellSize = 1f;
 
     private bool isMoving = false;
 
-    int a = 12;
     private void Update()
     {
         if (!isMoving && Input.GetKeyDown(KeyCode.W))
@@ -17,6 +17,7 @@ public class CubeMoveTest : MonoBehaviour
         }
     }
 
+    
     private System.Collections.IEnumerator MoveTo(Vector3 target)
     {
         isMoving = true;

@@ -5,6 +5,8 @@ public class PlatformMode : MonoBehaviour
     [SerializeField] private ChargeMode _mode;
     [SerializeField] private PlayerCharger _playerCharger;
 
+    private const string _playerTag = "Player";
+
     public ChargeMode Mode => _mode;
 
     private void PlatformCondition()
@@ -16,7 +18,7 @@ public class PlatformMode : MonoBehaviour
                 if (_playerCharger.Mode == ChargeMode.Plus)
                 {
                     Destroy( _playerCharger.gameObject );
-                    RestartLevel.RestartLevelByDeath();
+                    RestartLevel.Instance.Restart();
                 }
                 break;
 
@@ -24,19 +26,19 @@ public class PlatformMode : MonoBehaviour
                 if (_playerCharger.Mode == ChargeMode.Minus)
                 {
                     Destroy(_playerCharger.gameObject);
-                    RestartLevel.RestartLevelByDeath();
+                    RestartLevel.Instance.Restart();
                 }
                 break;
 
             case ChargeMode.Trap:
-                RestartLevel.RestartLevelByDeath();
+                RestartLevel.Instance.Restart();
                 break;
         }
     }
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag(_playerTag))
         {
             PlatformCondition();
         }

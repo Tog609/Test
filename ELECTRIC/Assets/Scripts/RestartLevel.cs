@@ -1,10 +1,24 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public static class RestartLevel 
+public class RestartLevel  : MonoBehaviour
 {
-    public static void RestartLevelByDeath()
+    public static RestartLevel Instance { get; private set; }
+
+
+    void Awake()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
+    public void Restart()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(currentScene.name);
     }
 }
