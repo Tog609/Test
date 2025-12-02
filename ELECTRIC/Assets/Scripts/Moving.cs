@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class CubeMoveTest : MonoBehaviour
+public class Moving : MonoBehaviour
 {   
-    [Header("Character Settings")]
+    [Header("Character Moving Settings")]
     public float moveTime = 0.15f;
     public float cellSize = 1f;
 
@@ -30,7 +30,7 @@ public class CubeMoveTest : MonoBehaviour
             transform.position = Vector3.Lerp(start, target, t);
             yield return null;
         }
-
+       
         transform.position = target;
         isMoving = false;
     }

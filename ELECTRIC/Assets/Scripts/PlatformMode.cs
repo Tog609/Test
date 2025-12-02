@@ -2,6 +2,7 @@
 
 public class PlatformMode : MonoBehaviour
 {
+    [Header("Platfrom modes")]
     [SerializeField] private ChargeMode _mode;
     [SerializeField] private PlayerCharger _playerCharger;
 

@@ -3,34 +3,58 @@
   "WorkspaceRootPath": "C:\\Test\\ELECTRIC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\restartlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restartlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\playercharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\platfromcharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platfromcharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|c:\\test\\electric\\assets\\scripts\\finishbuttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishbuttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|c:\\test\\electric\\assets\\scripts\\platformmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\platformmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|c:\\test\\electric\\assets\\scripts\\checkbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|c:\\test\\electric\\assets\\scripts\\platfromcharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platfromcharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\playercharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\restartlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restartlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|C:\\Test\\ELECTRIC\\assets\\scripts\\checkbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|c:\\test\\electric\\assets\\scripts\\uimenuscripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059CAF44-7ABE-7DF0-389E-EA7F3225C526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimenuscripts\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Test\\ELECTRIC\\Assets\\Scripts\\LevelGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Test\\ELECTRIC\\Assets\\Scripts\\EnergeticMenuBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnergeticMenuBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Test\\ELECTRIC\\Assets\\Scripts\\Particle\\ParticleMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Particle\\ParticleMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Test\\ELECTRIC\\Assets\\Scripts\\Particle\\ParticleSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Particle\\ParticleSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,7 +88,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "FinishButtonLogic.cs",
+              "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\FinishButtonLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishButtonLogic.cs",
+              "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\FinishButtonLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishButtonLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:31:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuNavigation.cs",
+              "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\UiMenuScripts\\MenuNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UiMenuScripts\\MenuNavigation.cs",
+              "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\UiMenuScripts\\MenuNavigation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UiMenuScripts\\MenuNavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:19:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGenerator.cs",
+              "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGenerator.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:11:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticleMover.cs",
+              "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\Particle\\ParticleMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Particle\\ParticleMover.cs",
+              "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\Particle\\ParticleMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Particle\\ParticleMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:58:20.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParticleSpawner.cs",
+              "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\Particle\\ParticleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Particle\\ParticleSpawner.cs",
+              "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\Particle\\ParticleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Particle\\ParticleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:58:04.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
+              "ToolTip": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
+              "RelativeToolTip": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:43:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerCharger.cs",
+              "DocumentMoniker": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
+              "ToolTip": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
+              "RelativeToolTip": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:07:08.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnergeticMenuBuilder.cs",
+              "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\EnergeticMenuBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnergeticMenuBuilder.cs",
+              "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\EnergeticMenuBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnergeticMenuBuilder.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAADwv/YAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:31:39.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CheckBound.cs",
               "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\CheckBound.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CheckBound.cs",
@@ -77,91 +198,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Moving.cs",
               "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\Moving.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Moving.cs",
               "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\Moving.cs",
               "RelativeToolTip": "Assets\\Scripts\\Moving.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T15:59:40.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RestartLevel.cs",
               "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\RestartLevel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RestartLevel.cs",
               "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\RestartLevel.cs",
               "RelativeToolTip": "Assets\\Scripts\\RestartLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T15:48:18.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerCharger.cs",
               "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\PlayerCharger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCharger.cs",
               "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\PlayerCharger.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerCharger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T15:33:24.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlatformMode.cs",
               "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\PlatformMode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformMode.cs",
               "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\PlatformMode.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatformMode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T15:29:44.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Moving.cs",
-              "DocumentMoniker": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
-              "RelativeDocumentMoniker": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
-              "ToolTip": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
-              "RelativeToolTip": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\Moving.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T00:43:19.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlatfromCharger.cs",
               "DocumentMoniker": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\PlatfromCharger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatfromCharger.cs",
               "ToolTip": "C:\\Test\\ELECTRIC\\Assets\\Scripts\\PlatfromCharger.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatfromCharger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T00:17:46.857Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerCharger.cs",
-              "DocumentMoniker": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
-              "RelativeDocumentMoniker": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
-              "ToolTip": "C:\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
-              "RelativeToolTip": "..\\..\\Unity_projects\\ELECTRIC\\Assets\\Player\u002BPlayerScripts\\PlayerCharger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T21:07:08.825Z"
             }
           ]
         }

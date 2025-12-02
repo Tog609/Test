@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class RestartLevel  : MonoBehaviour
 {
+    [Header("Instance")]
     public static RestartLevel Instance { get; private set; }
 
 
